@@ -43,6 +43,10 @@ module StripeMock
           delay_days: 7,
           interval: "daily"
         },
+        payout_schedule: {
+          delay_days: 2,
+          interval: "daily"
+        },
         tos_acceptance: {
           ip: nil,
           date: nil,
